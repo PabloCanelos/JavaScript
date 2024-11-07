@@ -45,7 +45,10 @@ body {
     background: #e2a30b;
     color: white;
     border-radius: 5px;
-    padding: 4px 8px;
+    padding: 5px 8px;
+    width: 2rem;
+    border: none;
+    height: 2rem;
 }
 
 .total-section {
