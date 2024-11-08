@@ -1,9 +1,5 @@
 
 
-
-
-
-
 const suma = document.querySelector('#suma');
 const resta = document.querySelector('#resta');
 let cantidad = document.querySelector('.cantidad');
